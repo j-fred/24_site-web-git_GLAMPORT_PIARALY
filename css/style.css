@@ -140,6 +140,23 @@ hr
 /* ==aside */
 /* ----------------------------- */
 
+section{
+    background-color: #aa5d61; 
+    display: flex;
+    justify-content: center;  
+}
+
+.don
+{
+    display: flex;
+    flex-wrap: wrap;
+    width:700px;
+    
+    justify-content: center;
+    align-items: center;
+
+}
+
 
 /* ----------------------------- */
 /* ==contact */
