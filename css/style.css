@@ -80,7 +80,7 @@ main
 {
     display: flex;
     justify-content: center;
-    
+    margin-top: 20px;
     
 }
 .center{
@@ -116,11 +116,25 @@ article{
     color: #FFFFFF; 
     transform: rotate(10deg);
 }
- .text{
-    /* padding: 0 10px; */
+ /* .text{
+    padding: 0 10px;
     font-size: 16px;
-} 
+}  */
 
+hr
+{
+    margin-right: 150px;
+    border-top: 0.1px solid white;
+}
+
+
+.rouge{background-color:#aa5d61; }
+
+.bleu{background-color:#2d6f8a; }
+
+.orange {background-color:#ecc7a1; }
+
+.vert {background-color:#caeade } 
 
 /* ----------------------------- */
 /* ==aside */
